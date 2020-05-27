@@ -1,0 +1,4 @@
+gdb-multiarch firmware.elf 
+target extended-remote:1234
+step
+layout regs
